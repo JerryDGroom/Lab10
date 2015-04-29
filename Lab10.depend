@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1418841614 source:c:\users\jerry groom\desktop\data structures\lab10\bstree.cpp
+	<new>
+	<iostream>
+	"BSTree.h"
+
+1418841614 c:\users\jerry groom\desktop\data structures\lab10\bstree.h
+	<stdexcept>
+	<iostream>
+
+1430326828 source:c:\users\jerry groom\desktop\data structures\lab10\hashtable.cpp
+	<iostream>
+	"HashTable.h"
+	<cmath>
+
+1418841614 c:\users\jerry groom\desktop\data structures\lab10\hashtable.h
+	<stdexcept>
+	<iostream>
+	"BSTree.cpp"
+
+1418841614 c:\users\jerry groom\desktop\data structures\lab10\bstree.cpp
+	<new>
+	<iostream>
+	"BSTree.h"
+
+1430326916 source:c:\users\jerry groom\desktop\data structures\lab10\test10.cpp
+	<iostream>
+	<string>
+	"HashTable.cpp"
+
+1430326828 c:\users\jerry groom\desktop\data structures\lab10\hashtable.cpp
+	<iostream>
+	"HashTable.h"
+	<cmath>
+
+1430330989 source:c:\users\jerry groom\desktop\data structures\lab10\login.cpp
+	<string>
+	<iostream>
+	<fstream>
+	"HashTable.cpp"
+
